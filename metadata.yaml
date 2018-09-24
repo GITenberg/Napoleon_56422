@@ -8,12 +8,17 @@ contributor:
     deathdate: 1909
     gutenberg_agent_id: '44370'
     url: http://www.gutenberg.org/2009/agents/44370
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Liisberg, Bering
     gutenberg_agent_id: '48833'
     url: http://www.gutenberg.org/2009/agents/48833
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56422#Napoleon
 gutenberg_issued: '2018-01-24'
 gutenberg_type: Text
 identifiers:
